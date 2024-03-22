@@ -69,7 +69,7 @@ final validAssetLocaleSet = {
   const Locale('id'),
   const Locale('is'),
   const Locale('it'),
-  const Locale('jp'),
+  const Locale('ja'),
   const Locale('ka'),
   const Locale('kk'),
   const Locale('ky'),
