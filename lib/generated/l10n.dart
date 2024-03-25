@@ -71,7 +71,7 @@ class AppLocalizationDelegate extends LocalizationsDelegate<I18nGoogleWallet> {
       Locale.fromSubtags(languageCode: 'en'),
       Locale.fromSubtags(languageCode: 'es'),
       Locale.fromSubtags(languageCode: 'it'),
-      Locale.fromSubtags(languageCode: 'ja'),
+      Locale.fromSubtags(languageCode: 'jp'),
       Locale.fromSubtags(languageCode: 'nl'),
     ];
   }
